@@ -107,10 +107,10 @@ bottom_right_widget = QtWidgets.QLabel('Widget 5')
 bottom_right_widget.setAlignment(center)
 right_layout.addWidget(bottom_right_widget)
 
-# Add right side widgets
+# Add right side widgets to main widget
 hbox_layout.addWidget(right_widget)
 """
-#Layout Three
+# Layout Three
 """
 # Define Layouts
 # Main Layout
